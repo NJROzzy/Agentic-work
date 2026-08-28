@@ -69,4 +69,4 @@ Each new piece of agentic work should ideally include:
 
 ## Status
 
-🚧 Actively evolving. This README will be updated as new agentic model work is added to the repo.
+🚧 Actively evolving. This README will be updated as new agentic model work is added to the repo. but not restricted to just agentic's
