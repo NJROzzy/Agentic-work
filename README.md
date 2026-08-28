@@ -4,7 +4,7 @@
 
 This repository collects experiments, notes, and implementations related to **Agentic AI** — systems that go beyond single-shot predictions and instead plan, use tools, take actions, and iterate toward a goal.
 
-It's an evolving space: new work will be added here over time as different agentic patterns, architectures, and use cases are explored.
+It's an evolving space: new work will be added here over time as different agentic patterns, architectures, and use cases are explored — though it isn't strictly limited to agentic work; related Python/AI learning and experiments may live here too.
 
 ## What "Agentic" Means Here
 
@@ -69,4 +69,4 @@ Each new piece of agentic work should ideally include:
 
 ## Status
 
-🚧 Actively evolving. This README will be updated as new agentic model work is added to the repo. but not restricted to just agentic's
+🚧 Actively evolving. This README will be updated as new agentic model work is added to the repo — but not restricted to just agentic work.
