@@ -1,10 +1,9 @@
 # Agentic-work
-
 # Agentic AI Models
 
 This repository collects experiments, notes, and implementations related to **Agentic AI** — systems that go beyond single-shot predictions and instead plan, use tools, take actions, and iterate toward a goal.
 
-It's an evolving space: new work will be added here over time as different agentic patterns, architectures, and use cases are explored — though it isn't strictly limited to agentic work; related Python/AI learning and experiments may live here too.
+It's an evolving space: new work will be added here over time as different agentic patterns, architectures, and use cases are explored — though it isn't strictly limited to agentic work; related Python/ML/AI learning and experiments may live here too.
 
 ## What "Agentic" Means Here
 
@@ -26,7 +25,9 @@ This repo will host different explorations of that loop — from simple single-t
 ├── agents/              # Agent implementations (one folder per pattern/project)
 ├── tools/                # Reusable tool/function definitions used by agents
 ├── evals/                # Evaluation scripts and test cases for agent behavior
-└── notes/                # Write-ups, learnings, and design decisions
+├── notes/                # Write-ups, learnings, and design decisions
+├── ml/                    # Applied ML fundamentals and projects
+└── robotics_ml/           # ML for robotics — perception, control, simulation (CUDA, Isaac Sim, MuJoCo)
 ```
 
 > Note: folders will be added incrementally as work lands — this structure is a starting scaffold, not a fixed contract.
@@ -41,6 +42,8 @@ This section will grow as new agentic projects are added. Rough categories expec
 - [ ] Memory and state management for long-running agents
 - [ ] Evaluation and benchmarking of agent reliability
 - [ ] Case studies / applied examples
+- [ ] Applied ML fundamentals (see `ml/`)
+- [ ] Robotics ML — perception, control, simulation with CUDA, Isaac Sim, and MuJoCo (see `robotics_ml/`)
 
 ## Getting Started
 
