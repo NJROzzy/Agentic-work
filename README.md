@@ -1,4 +1,4 @@
-# Agentic-work
+# AI - ML - DL 
 # Agentic AI Models
 
 This repository collects experiments, notes, and implementations related to **Agentic AI** — systems that go beyond single-shot predictions and instead plan, use tools, take actions, and iterate toward a goal.
@@ -71,5 +71,5 @@ Each new piece of agentic work should ideally include:
 3. Any assumptions, limitations, or known issues
 
 ## Status
-
+update
 🚧 Actively evolving. This README will be updated as new agentic model work is added to the repo — but not restricted to just agentic work.
